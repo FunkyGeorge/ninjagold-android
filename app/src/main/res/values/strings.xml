@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ninjagold</string>
+    <string name="work_button">Work</string>
+    <string name="casino_button">Casino</string>
+</resources>
